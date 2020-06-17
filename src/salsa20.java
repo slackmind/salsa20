@@ -131,5 +131,4 @@ public class salsa20 {
         return 0;
     }
 
-
 }
